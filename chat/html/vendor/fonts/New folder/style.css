@@ -1,0 +1,8 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Scheherazade-Regular";
+  src: url local('Scheherazade Regular'),local('Scheherazade-Regular'),("/fonts/Scheherazade-Regular.woff2"); /* Modern Browsers */
+  font-weight: 300;
+  font-style: normal;
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
